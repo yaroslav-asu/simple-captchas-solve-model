@@ -3,6 +3,4 @@ Neural network model to solve simple captchas handled with [simple-captchas-solv
 and learned with [simple-capthcas-creation](https://github.com/yaroslav-asu/simple-capthcas-creation).
 <br>
 <br>
-Created with [mltu](https://github.com/pythonlessons/mltu) example.
-
-Created to education goals.
+Created with [mltu](https://github.com/pythonlessons/mltu) example for education goals.
