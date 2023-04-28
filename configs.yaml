@@ -1,9 +1,9 @@
-batch_size: 64
+﻿batch_size: 64
 height: 75
 learning_rate: 0.001
 max_text_length: 5
-model_path: models/9701
+model_path: models/9851 
 train_epochs: 1000
 train_workers: 20
-vocab: 2mkhrnXd43bw75pey6f8xcga
+vocab: 28nmxXd6wg45re7pckaybf3h
 width: 250
