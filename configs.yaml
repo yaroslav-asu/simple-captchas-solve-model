@@ -2,7 +2,7 @@
 height: 75
 learning_rate: 0.001
 max_text_length: 5
-model_path: models/9851 
+model_path: simple-captchas-solve-mode/ 
 train_epochs: 1000
 train_workers: 20
 vocab: 28nmxXd6wg45re7pckaybf3h
